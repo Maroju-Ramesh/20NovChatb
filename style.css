@@ -128,6 +128,9 @@ html{
         max-width: 230px;
 
     } 
+ .msg{
+      top: 22vh;
+    }
     .msg2{
         top: 28vh;
         
